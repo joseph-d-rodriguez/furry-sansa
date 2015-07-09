@@ -8,3 +8,11 @@
 3. Looks better, but now see how the profile picture is just too big for the page? There's a bug in your CSS. Contact your mentor to get some help!
 4. Now that you have the styles for the page, customize some colors! Go into styles.css and change the color of the colored bar in the middle of the screen.
 5. What did you say for the last question? Hop on chat and share your answer with your group! See any common answers?
+
+###Install Instructions:
+
+0. Open Terminal (or command line).
+1. Navigate to directory where you want to install the project. try "cd".
+2. "Download" the code with 'git clone https://github.com/joseph-d-rodriguez/furry-sansa.git'.
+3. You should now have a 'furry-sansa' directory with the project contents inside.
+4. cd into furry-sansa, and have at it!
